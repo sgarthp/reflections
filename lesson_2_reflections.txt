@@ -1,0 +1,16 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+
+    The git meta data is created to identify the directory as a git
+    repository.  Before you can start tracking changes to the files in
+    you repository you need to identify it as a repository.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+    The staging area identifies files that are being worked on that
+    are i nthe working directory.  Later, when you wish to commit your
+    work to the repository it will be these files only that are
+    committed.
+    
