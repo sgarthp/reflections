@@ -10,7 +10,13 @@ How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 
     The staging area identifies files that are being worked on that
-    are i nthe working directory.  Later, when you wish to commit your
+    are in the working directory.  Later, when you wish to commit your
     work to the repository it will be these files only that are
     committed.
     
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+    You can make as many changes to the working directory as you'd
+    like, but then by staging the files that make up a logical change
+    only, you can commit each logical change from the staged changes.
