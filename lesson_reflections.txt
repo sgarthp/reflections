@@ -1,0 +1,10 @@
+BRANCHES
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+     Branches would be handy for introducing a similar function but
+     with an experimental feature.  It would let you keep that
+     proposed change or feature isolated from the rest of the code, so
+     that changes could continue with the main program.
+
