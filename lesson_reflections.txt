@@ -8,3 +8,7 @@ your history organized? How would branches help?
      proposed change or feature isolated from the rest of the code, so
      that changes could continue with the main program.
 
+How do the diagrams help you visualize the branch structure?
+
+    They kind of help with the understanding of the parents of each
+    node and how that connects to the branch labels.
