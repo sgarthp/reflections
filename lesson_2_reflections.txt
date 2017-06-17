@@ -20,3 +20,38 @@ logical change?
     You can make as many changes to the working directory as you'd
     like, but then by staging the files that make up a logical change
     only, you can commit each logical change from the staged changes.
+
+
+BRANCHES
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+     Branches would be handy for introducing a similar function but
+     with an experimental feature.  It would let you keep that
+     proposed change or feature isolated from the rest of the code, so
+     that changes could continue with the main program.
+
+How do the diagrams help you visualize the branch structure?
+
+    They kind of help with the understanding of the parents of each
+    node and how that connects to the branch labels.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+    A merge takes two divergent code branches with different changes
+    and brings them together to a single branch, to merge the
+    functionlily and capabilities so work can continue on with the
+    combined product.  The diagram helps display understanding of
+    where the parts of the resulting branch came from.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+    Automatic merging saves the user the time and trouble of manually
+    merging branches where the differences are clear and should not
+    require human intervention.  Where manual merging is advanageous
+    is when the likelihood of auto merging would lead to problems,
+    like code that will not compile.
+
