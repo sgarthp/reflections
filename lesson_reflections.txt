@@ -22,3 +22,12 @@ represent it in the diagram the way we do?
     combined product.  The diagram helps display understanding of
     where the parts of the resulting branch came from.
 
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+    Automatic merging saves the user the time and trouble of manually
+    merging branches where the differences are clear and should not
+    require human intervention.  Where manual merging is advanageous
+    is when the likelihood of auto merging would lead to problems,
+    like code that will not compile.
+
