@@ -12,3 +12,13 @@ How do the diagrams help you visualize the branch structure?
 
     They kind of help with the understanding of the parents of each
     node and how that connects to the branch labels.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+    A merge takes two divergent code branches with different changes
+    and brings them together to a single branch, to merge the
+    functionlily and capabilities so work can continue on with the
+    combined product.  The diagram helps display understanding of
+    where the parts of the resulting branch came from.
+
