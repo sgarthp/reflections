@@ -11,3 +11,21 @@ Git automatically stay up-to-date with your remote repository?
     Changes can happen to the remote that are outside of your control,
     performed by other team members, so it is preferrable to
     scrutinize the synchronization.
+
+Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+    A fork makes a separate copy of a repository on GitHub, presumably
+    in a separate account, that refers back to the original
+    repository, but then work on the new repository can continue
+    independently.  Useful when you want to take an existing project,
+    and go off and do something else with it while work on the
+    original does whatever it is going to do.
+
+    A clone makes a copy of a repository that is intended to be used
+    to continue the work being done on that repository, with the
+    expectation of synchronizing with it in the future.
+
+    A branch is to enable someone to work on a variant of the project,
+    typically with the expectation that it will stay synchronized with
+    the main project, even if it maintains a separate form of it.
