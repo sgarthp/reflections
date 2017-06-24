@@ -29,3 +29,11 @@ would you use one instead of another?
     A branch is to enable someone to work on a variant of the project,
     typically with the expectation that it will stay synchronized with
     the main project, even if it maintains a separate form of it.
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+    It will allow you to detect changes to the remote that have
+    happened since you last pulled it, which will then assist you with
+    merging your own changes since that time with the remote.
+    
