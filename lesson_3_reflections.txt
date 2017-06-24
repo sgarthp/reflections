@@ -45,3 +45,13 @@ easier, and what would be harder?
     those tools.  Everything else: tracking changes, communicating
     them effectively, supporting independent work that can later be
     combined, etc., would all be much easier.
+
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+    When making a non-trivial change that you would like others in
+    your team to see and provide comments or feedback on prior to
+    publishing to the master, a separate branch would facilitate that.
+
+    Updating the master directly is certainly simpler, takes less
+    time, but does not provide for team scrutiny.
