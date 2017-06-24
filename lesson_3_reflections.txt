@@ -37,3 +37,11 @@ remote stored locally?
     happened since you last pulled it, which will then assist you with
     merging your own changes since that time with the remote.
     
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+    The only easier thing about collaborating without Git and GitHub
+    would be the effort to train the entire team on effectively using
+    those tools.  Everything else: tracking changes, communicating
+    them effectively, supporting independent work that can later be
+    combined, etc., would all be much easier.
